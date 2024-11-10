@@ -1,4 +1,3 @@
-
 for i in range(int(input())):
   A,B,C,D,E,F=map(int,input().split())
   Alice=(A+B+C)-min(A,B,C)
